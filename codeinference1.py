@@ -13,7 +13,6 @@ Original file is located at
 #####No 3 (Dataset B)
 """
 
-pip install streamlit
 
 import streamlit as st
 import pandas as pd
